@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main-container {
+ display: flex;
+ max-height: 200px;
+ overflow-x: auto;
+}
+
+.box {
+  /* height: 120px; */
+  padding: 6rem;
+  width: 10rem;
+  margin: 0.6rem;
+
+}
+.blue {
+  background-color: blue;
+}
+.white {
+  background-color: red;
+}
+.ash {
+  background-color: #808080;
+}
+.black {
+  background-color: black;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.purple {
+  background-color: purple;
+  /* grid-row: ; */
+}
+.orange {
+  background-color: orange;
+}
+.pink {
+  background-color: pink;
+}
+
